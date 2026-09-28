@@ -6,6 +6,42 @@ DStructs is an educational and lightweight data structures library focused on un
 
 The project is designed to grow over time as new data structures and algorithms are implemented.
 
+## Origins
+
+DStructs is based on a previous data structures project I developed in C, where I implemented several linked data structures from scratch, including:
+
+* Singly Linked List
+* Circular Linked List
+* Doubly Linked List
+
+The goal of DStructs is to bring those implementations into Java while continuing to explore data structures, algorithms, memory management concepts, and object-oriented design.
+
+The original C implementation can be found here:
+
+**[C Data Structures — Linked Lists](https://github.com/Physanto/TADS-and-DSA/tree/main/LinkedList/ImplementationC)**
+
+DStructs is a new implementation and is not a direct translation of the original C code. The project is being redesigned for Java and will evolve independently as new data structures and features are introduced.
+
+```text
+C implementation
+      │
+      │  Linked List
+      │  Circular List
+      │  Doubly Linked List
+      ▼
+   DStructs
+      │
+      │  Java implementation
+      ▼
+More data structures
+      │
+      ├── Stack
+      ├── Queue
+      ├── Trees
+      ├── Heap
+      └── Graph
+```
+
 ## Features
 
 Currently, DStructs is under development.
